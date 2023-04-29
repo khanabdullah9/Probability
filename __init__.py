@@ -1,0 +1,4 @@
+from conditional import conditional_probability
+from bayes_rule import get_probability
+from combination import choose
+from permutation import permuatation
